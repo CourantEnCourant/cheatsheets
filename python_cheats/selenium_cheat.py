@@ -21,6 +21,9 @@ class Chrome(webdriver.Chrome):
         """
         pass
 
+    def get(self, url):
+        return """All elements of this url"""
+
 
 from selenium.webdriver.common.by import By
 
