@@ -10,3 +10,5 @@
 
 # wget (download document)
 - wget -P path/ URL: download file to specified path
+
+# uname (unix name)
